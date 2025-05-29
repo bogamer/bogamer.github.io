@@ -1,4 +1,4 @@
-# Blog Title :link: http://blog.meekdai.com 
+# Blog Title :link: https://bogamer.github.io
 ### :page_facing_up: [1](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
